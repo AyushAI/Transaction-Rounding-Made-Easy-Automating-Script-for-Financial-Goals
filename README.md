@@ -1,4 +1,4 @@
-# CSV-RoundUps
+# Transaction Rounding Made Easy Automating Script for Financial Goals
 
 ## Overview
 
