@@ -65,7 +65,8 @@ except:
 
 if(directory_or_file == "-h"):
     print("""
-CSV-RoundUps
+
+    CSV-RoundUps
 ---
 This is meant to be used with your bank/credit card statements in a CSV format.
 
