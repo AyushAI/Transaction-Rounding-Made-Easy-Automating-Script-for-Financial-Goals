@@ -4,7 +4,7 @@ setuptools.setup(
     name="roundup-csv",
     version="1.1.1",
     description="Rounds up transactions in CSV file",
-    url="https://github.com/reedhaffner/CSV-RoundUps",
+    url="https://github.com/AyushAI/Transaction-Rounding-Made-Easy-Automating-Script-for-Financial-Goals",
     packages=setuptools.find_packages(),
     author="Reed Haffner",
     author_email="reedhaffner@pm.me",
